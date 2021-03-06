@@ -197,7 +197,7 @@ main {
   border-radius: 50%;
   transform: translateY(25%);
   background: var(--clr-primary-5);
-  color: var(--clr-white);
+  color: var(--clr-red-white);
 }
 .img-container::before {
   content: '';
