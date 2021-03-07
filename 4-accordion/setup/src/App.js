@@ -17,5 +17,5 @@ function App() {
     </div>
     </main>);
 }
-
+/* TODO: Add animations and search bar*/
 export default App;
